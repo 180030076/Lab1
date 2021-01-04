@@ -1,0 +1,4 @@
+hi i'm harsha
+this is my First practical
+we have to check status by the following command 
+--> git status
